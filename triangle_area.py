@@ -1,7 +1,7 @@
 # FILE NAME - triangle_area.py
 
-# NAME: 
-# DATE: 
+# NAME: Anthony Antoine    
+# DATE: 2/17/2025
 # BRIEF DESCRIPTION:  
 
 
@@ -17,7 +17,10 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
     
-    
+    height = float(input("1:"))
+    base = float(input( "1:"))
+    print(" the area if the triangle is 0.5.)
+         
     
     
     
